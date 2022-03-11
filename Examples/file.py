@@ -14,4 +14,4 @@ encrypt_file(filename, text_key, num_key, retain=False) # retain when True, the 
 encrypted_filename = 'encrypted_' + filename
 
 # Decrypting a text file
-decrypted_text = decrypt_file(encrypted_filename, text_key, num_key) # retain when True, the original file is retained. True by default.
+decrypt_file(encrypted_filename, text_key, num_key) # retain when True, the original file is retained. True by default.
