@@ -2,6 +2,8 @@
 
 ## A simple to use, no brainer, symmentric cryptography module. Supports Encrypting and Decrypting text and file.
 
+## Disclaimer : This was written for fun and learning purposes, don't use it in anything close to production. Strictly for experimenting 
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
